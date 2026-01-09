@@ -1,10 +1,13 @@
 Retail Consumer Behavior Analytics 🛒📈
+
 An end-to-end data analytics project focused on understanding customer shopping patterns, optimizing marketing strategies, and improving customer loyalty for a leading retail company.
 
 📌 Business Problem
+
 The management team noticed shifting purchasing patterns across different demographics and sales channels (online vs. offline). The goal of this project is to uncover how factors like discounts, reviews, seasons, and payment preferences drive consumer decisions and repeat purchases.
 
 🛠️ Tech Stack
+
 Data Preparation: Python (Pandas, NumPy)
 
 Database & Analysis: MySQL

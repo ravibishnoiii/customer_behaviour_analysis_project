@@ -40,7 +40,8 @@ Built a dynamic dashboard to visually communicate key findings to stakeholders.
 * **Trend Analysis:** Impact of discounts and reviews on shopping decisions.
 * **Channel Comparison:** Visualizing Online vs. Offline shopping patterns.
 
-[Image of an interactive retail sales dashboard with charts for demographics and sales channels]
+<img width="1193" height="665" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/7bc4e773-8b2d-46e9-a5d1-3df11ebb5bf9" />
+
 
 ---
 
